@@ -1,0 +1,907 @@
+
+body{
+    margin: 0%;
+}
+
+.main{
+    width: 100%;
+    height: 1000px; ;
+    background:#bab8b8;;
+}
+
+
+.Top{
+    width: 100%;
+    height: 9%;
+    background: white;
+}
+.Top-1{
+    width: 100%;
+    height: 50%;
+    background-color: white;
+}
+.Top-logo{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.logo{
+    width: 126px;
+    height: 41px;
+    margin-top: -1px;
+    margin-left: -1px;
+    cursor: pointer;
+}
+.Top1-options{
+    width: 50%;
+    height: 100%;
+    float: left;
+  
+}
+.Lenovo-pro{
+    padding-left: 160px;
+    cursor: pointer;
+    
+
+}
+.line1{
+    position: absolute;
+    right: 487px;
+    top: -8px;
+    border-left: 2px solid black;
+    height: 15px;
+    cursor: pointer;
+}
+.Student-store{
+    padding-left: 25px;
+    width: 84px;
+    cursor: pointer;
+}
+.line2{
+    position: absolute;
+    right: 368px;
+    top: -8px;
+    border-left: 1.5px solid black;
+    height: 15px;
+    cursor: pointer;
+
+}
+.Locator-Text{
+    text-decoration: none;
+    position: absolute;
+    right: 311px;
+    top: 1px;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    
+}
+span{
+    font-size: 13px;
+    color: #333333;
+    
+
+}
+.Locator-icon{
+    width: 11px;
+    height: 15px;
+    position: absolute;
+    right: 291px;
+    top: 8px;
+   
+
+    
+}
+.line3{
+    position: absolute;
+    right: 278px;
+    top: -5px;
+    border-left: 1px solid black;
+    height: 15px;
+    cursor: pointer;
+
+}
+.Contact-Text{
+    text-decoration: none;
+    position: absolute;
+    right: 215px;
+    top: 1px;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+ 
+}
+.Contact-icon{
+    width: 13px;
+    height: 15px;
+    position: absolute;
+    right: 194px;
+    top: 8px
+}
+.line4{
+    position: absolute;
+    right: 181px;
+    top: -5px;
+    border-left: 1px solid black;
+    height: 15px;
+    cursor: pointer;
+}
+.Account-Text{
+    text-decoration: none;
+    position: absolute;
+    right: 116px;
+    top: 1px;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+
+}
+.Account-icon{
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    right: 87px;
+    top: 2px;
+
+}
+.line5{
+    position: absolute;
+    right: 84px;
+    top: -5px;
+    border-left: 1px solid black;
+    height: 15px;
+    cursor: pointer;
+}
+.Cart-Text{
+    text-decoration: none;
+    position: absolute;
+    right: 39px;
+    top: 1px;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+}
+.Cart-icon{
+    width: 16px;
+    height: 15px;
+    position: absolute;
+    right: 16px;
+    top: 8px;
+
+}
+.Top-2{
+    width: 100%;
+    height: 50%;
+}
+.Top2-options{
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+.Op-1{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 17px;
+    top: 49px;
+    
+}
+.Op-1:hover{
+    color: #009DD9;
+}
+.Op-2{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 146px;
+    top: 49px;
+    
+}
+.Op-2:hover{
+    color: #009DD9;
+}
+.Op-3{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 238px;
+    top: 49px;
+    
+}
+.Op-3:hover{
+    color: #009DD9;
+}
+.Op-4{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 415px;
+    top: 49px;
+    
+}
+.Op-4:hover{
+    color: #009DD9;
+}
+.Op-5{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 559px;
+    top: 49px;
+    
+}
+.Op-5:hover{
+    color: #009DD9;
+}
+.Op-6{
+    text-decoration: none;
+    color: black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    position: absolute;
+    left: 753px;
+    top: 49px;
+    
+}
+.Op-6:hover{
+    color: #009DD9;
+}
+.Top-Search{
+    width: 30%;
+    height: 100%;
+    float: left;
+
+}
+.Search-bar{
+    width: 255px;
+    height: 31px;
+    border: 1px solid black;
+    border-radius: 6px;
+    position: absolute;
+    right: 55px;
+    top: 39px;
+}
+.Search-icon{
+    height: 17px;
+    width: 15px;
+}
+.Search-Button{
+    position: absolute;
+    right: 16px;
+    top: 39px;
+    height: 35px;
+    width: 43px;
+    background: black;
+    border: 1px solid black;
+    border-radius: 0px 6px 6px 0px
+}
+  
+
+
+.Middle{
+    height: 700px;
+    width: 100%;
+}
+.Cover-img{
+    position: absolute;
+    right: -201px;
+    top: 90px;
+}
+
+
+
+.MWC-img{
+    position: absolute;
+    left: 79px;
+    top: 228px;
+}
+
+
+
+.Text-1{
+    font-size: 62px;
+    font-weight: normal;
+    width: 607px;
+    color: white;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 280px;
+    left: 81px;
+}
+.Text-2{
+    font-size: 23px;
+    font-weight: normal;
+    width: 607px;
+    color: white;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 464px;
+    left: 81px;
+
+}
+.learn-more-button{
+    width: 130px;
+    height: 47px;
+    position: absolute;
+    left: 80px;
+    top: 595px;
+    border: #4ac0e0;
+    border-radius:5px;
+    color: white;
+    background: #4ac0e0;
+    font: 1em/1.75"Lato",Helvetica,Arial,sans-serif;
+    cursor: pointer;
+
+}
+.learn-more-button:hover{
+    color: #4ac0e0;
+    background: white;
+}
+
+
+
+
+
+.box-1{
+    height: 353px;
+    width: 379px;
+    position: absolute;
+    right: 378px;
+    top: 90px;
+    border: 0.5px solid gray;
+    background:black;
+    opacity: 50%;
+    transition: 0.8s;
+
+    
+}
+
+.box-1:hover{
+    background-image: url("https://static.lenovo.com/ww/img/new-homepage/default/lenovo-pcs-tablets-hover.jpg");
+    opacity: 100%;
+}
+.box-2{
+    height: 353px;
+    width: 379px;
+    position: absolute;
+    right: -3px;
+    top: 90px;
+    border: 0.5px solid gray;
+    background:black;
+    opacity: 50%;
+    transition: 0.8s;
+}
+
+.box-2:hover{
+    background-image: url("https://static.lenovo.com/ww/img/ftv/lenovo-black-friday-spotlight-2-phones.jpg");
+    opacity: 100%;
+}
+  
+.box-3{
+    height: 353px;
+    width: 379px;
+    position: absolute;
+    right: 378px;
+    top: 445px;
+    background:black;
+    opacity: 50%;
+    border: 0.5px solid gray;
+    transition: 0.8s;
+  
+}
+.box-3:hover{
+    background-image: url("https://static.lenovo.com/ww/img/new-homepage/default/lenovo-smart-devices-hover.jpg");
+    opacity: 100%;
+}
+.box-4{
+    height: 353px;
+    width: 379px;
+    position: absolute;
+    right: -3px;
+    top: 445px;
+    background:black;
+    opacity: 50%;
+    border: 0.5px solid gray;
+    transition: 0.8s;
+
+}
+.box-4:hover{
+    background-image: url("https://static.lenovo.com/ww/img/new-homepage/default/lenovo-data-center-hover.jpg");
+    opacity: 100%;
+}
+
+
+.Text-PC{
+    color: white;
+    position: absolute;
+    right: 408px;
+    top: 313px;
+    font: 2em/1.75"Lato",Helvetica,Arial,sans-serif;
+    opacity: 90%;
+    font-weight: lighter;
+}
+.Text-Phones{
+    color: white;
+    position: absolute;
+    right: 31px;
+    top: 313px;
+    font: 2em/1.75"Lato",Helvetica,Arial,sans-serif;
+    opacity: 90%;
+    font-weight: lighter;
+}
+.Text-Smart{
+    color: white;
+    position: absolute;
+    right: 408px;
+    top: 448px;
+    font: 2em/1.75"Lato",Helvetica,Arial,sans-serif;
+    opacity: 90%;
+    font-weight: lighter;
+}
+.Text-Servers{
+    color: white;
+    position: absolute;
+    right: 26px;
+    top: 448px;
+    font: 2em/1.75"Lato",Helvetica,Arial,sans-serif;
+    opacity: 90%;
+    font-weight: lighter;
+}
+.Bottom{
+    width: 101%;
+    height: 223px;
+    background:#bab8b8;
+    position: absolute;
+    bottom: -282px;
+}
+.Stay-Text{
+    color: #555;
+    position: absolute;
+    bottom: 148px;
+    left: 29px;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.Email{
+    height: 29px;
+    width: 268px;
+    position: absolute;
+    top: 71px;
+    left: 29px;
+    border: 1px solid black
+
+}
+.Sign-up{
+    width: 59px;
+    height: 33px;
+    position: absolute;
+    top: 71px;
+    left: 302px;
+    background-color: #414141;
+    color: white;
+    border: 1px solid black;
+    font: 1em/1.75 "Lato",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    cursor: pointer;
+}
+.Fb-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 382px;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.Fb-icon:hover{
+    filter: grayscale(0%);
+
+}
+.Twitter-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 422px;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.Twitter-icon:hover{
+    filter: grayscale(0%);
+}
+.Insta-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 462px;
+    cursor: pointer;
+    filter: grayscale(100%);
+
+}
+.Insta-icon:hover{
+    filter: grayscale(0%);
+
+}
+.YT-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 502px;
+    cursor: pointer;
+    filter: grayscale(100%);
+
+}
+.YT-icon:hover{
+    filter: grayscale(0%);
+}
+.Flickr-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 542px;
+    cursor: pointer;
+    filter: grayscale(100%);
+
+}
+.Flickr-icon:hover{
+    filter: grayscale(0%);
+}
+.Pintrest-icon{
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    top: 71px;
+    left: 582px;
+    cursor: pointer;
+    filter: grayscale(100%);
+
+}
+.Pintrest-icon:hover{
+    filter: grayscale(0%);
+}
+
+.Country-Text{
+    color: #555;
+    position: absolute;
+    bottom: 148px;
+    right: 241px;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+
+}
+.Country-label{
+    width: 300px;
+    height: 34px;
+    position: absolute;
+    right: 70px;
+    top: 71px;
+    background: gray;
+    border: 1px solid black;
+    color:black;
+    
+}
+.Nation-Selector{
+    width: 46px;
+    height: 38px;
+    position: absolute;
+    right: 28px;
+    top: 71px;
+    background:#414345;
+    border: 1px solid;
+    
+}
+
+.Nation-Selector:hover{
+
+    background: white;
+
+}
+
+
+
+.India-Flag{
+    width: 55px;
+    height: 36px;
+    position: absolute;
+    top: 72px;
+    right: 320px
+
+}
+.India-Text{
+    width: 55px;
+    height: 36px;
+    position: absolute;
+    top: 66px;
+    right: 247px;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    color: black;    
+    font-weight: lighter;
+
+
+}
+.Bottom-Options{
+
+    width: 100%;
+    height: 25%;
+    position: absolute;
+    top: 145px;
+    display: flex;
+}
+
+
+.Option-1{
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.O-Text-1{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-1{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 49px
+
+}
+
+
+
+
+.Option-2{
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+}
+.O-Text-2{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-2{
+    width: 20px;
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 282px;
+
+}
+
+
+
+.Option-3{
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+}
+.O-Text-3{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-3{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 542px
+
+}
+
+
+
+
+.Option-4{
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+}
+.O-Text-4{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-4{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 826px
+
+}
+
+
+
+
+.Option-5 {
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+}
+.O-Text-5{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-5{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 1085px
+
+}
+
+
+
+
+.Option-6{
+    height: 100%;
+    width: 16.66%;
+    text-align: center;
+}
+.O-Text-6{
+    color: #555;
+    font-weight: bold;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 13px
+}
+.O-Img-6{
+    width: 20px;
+    height: 22px;
+    position: absolute;
+    top: 9px;
+    left: 1341px
+
+}
+
+
+.Policy-Bar{
+    width: 70%;
+    height: 30px;
+    position: absolute;
+    top: 192px;
+    display: flex;
+}
+
+.P-1{
+   height: 100%;
+   width: 20%;
+   text-align: center;
+
+}
+
+
+.P-2{
+    height: 100%;
+    width: 7.5%;
+    text-align: center;
+   
+ }
+ 
+
+ .P-3{
+    height: 100%;
+    width: 7.5%;
+    text-align: center;
+ }
+
+
+
+
+ .P-4{
+    height: 100%;
+    width: 7.5%;
+    text-align: center;
+ }
+
+
+
+ .P-5{
+    height: 100%;
+    width: 7.5%;
+    text-align: center;
+ }
+
+
+
+ .P-6{
+    height: 100%;
+    width: 15%;
+    text-align: center;
+ }
+
+
+
+.P-7{
+    height: 100%;
+    width: 15%;
+    text-align: center;
+ }
+
+
+
+ .P-8{
+    height: 100%;
+    width: 20%;
+    text-align: center;
+ }
+
+
+ .Text-P1{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.Text-P2{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+}
+
+.Text-P3{
+     font-family: "Lato",Helvetica,Arial,sans-serif;
+     font-size: 10px;
+     color: black;
+}
+
+
+.Text-P4{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+}    
+
+
+.Text-P5{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+}
+
+.Text-P6{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+}
+
+.Text-P7{
+     font-family: "Lato",Helvetica,Arial,sans-serif;
+     font-size: 10px;
+     color: black;
+}
+
+    
+.Text-P8{
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    color: black;
+}    
